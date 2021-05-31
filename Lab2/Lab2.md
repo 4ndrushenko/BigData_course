@@ -1,6 +1,6 @@
 Lab2.R
 ================
-o.andrushenko
+O.Andrushenko
 2021-05-31
 
 ``` r
